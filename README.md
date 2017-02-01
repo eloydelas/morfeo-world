@@ -1,2 +1,2 @@
 # morfeo-world
-Neuroimaging codes
+My name is Eloy Martínez de las Heras. I was born in Tarragona. Currently, I am finishing my PhD project about Diffusion MRI. I am working in the Multiple Sclerosis Unit at the Hospital Clinic in Barcelona and IDIBAPS since 2010. I have been involved in several projects related with non-conventional MRI. I contributed significantly in optimizing our MRI protocols and with the develop of novel processing algorithms. My idea is sharing my experiences in this field.

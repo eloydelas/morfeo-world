@@ -1,2 +1,0 @@
-# morfeo-world
-Neuroimaging codes
